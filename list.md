@@ -1,21 +1,21 @@
 # Most popular programming languages
-## [1. Python - 15.16%](list/0.md)
-## [2. C - 10.97%](list/1.md)
-## [3. C++ - 10.53%](list/2.md)
-## [4. Java - 8.88%](list/3.md)
-## [5. C# - 7.53%](list/4.md)
-## [6. JavaScript - 3.17%](list/5.md)
-## [7. SQL - 1.82%](list/6.md)
-## [8. Go - 1.73%](list/7.md)
-## [9. Visual Basic - 1.52%](list/8.md)
-## [10. PHP - 1.51%](list/9.md)
-## [11. Fortran - 1.40%](list/10.md)
-## [12. Delphi/Object Pascal - 1.40%](list/11.md)
-## [13. MATLAB - 1.26%](list/12.md)
-## [14. Assembly language - 1.19%](list/13.md)
-## [15. Scratch - 1.18%](list/14.md)
-## [16. Swift - 1.16%](list/15.md)
-## [17. Kotlin - 1.07%](list/16.md)
-## [18. Rust - 1.05%](list/17.md)
-## [19. COBOL - 1.01%](list/18.md)
-## [20. Ruby - 0.99%](list/19.md)
+## 1. [Python](list/0.md) - 15.16%]
+## 2. [C](list/1.md) - 10.97%]
+## 3. [C++](list/2.md) - 10.53%]
+## 4. [Java](list/3.md) - 8.88%]
+## 5. [C#](list/4.md) - 7.53%]
+## 6. [JavaScript](list/5.md) - 3.17%]
+## 7. [SQL](list/6.md) - 1.82%]
+## 8. [Go](list/7.md) - 1.73%]
+## 9. [Visual Basic](list/8.md) - 1.52%]
+## 10. [PHP](list/9.md) - 1.51%]
+## 11. [Fortran](list/10.md) - 1.40%]
+## 12. [Delphi/Object Pascal](list/11.md) - 1.40%]
+## 13. [MATLAB](list/12.md) - 1.26%]
+## 14. [Assembly language](list/13.md) - 1.19%]
+## 15. [Scratch](list/14.md) - 1.18%]
+## 16. [Swift](list/15.md) - 1.16%]
+## 17. [Kotlin](list/16.md) - 1.07%]
+## 18. [Rust](list/17.md) - 1.05%]
+## 19. [COBOL](list/18.md) - 1.01%]
+## 20. [Ruby](list/19.md) - 0.99%]
